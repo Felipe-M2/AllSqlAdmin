@@ -23,11 +23,11 @@
 ### 📝 Editor SQL
 ```sql
 SELECT * FROM tabela LIMIT 10;
+```
 
 - Execução direta de queries
 - Visualização em tabela dos resultados
 - Feedback imediato
-```
 
 ### 🌐 Explorador
 
@@ -51,7 +51,7 @@ python --version
 pip --version
 ```
 
-###🚀 Instalação
+### 🚀 Instalação
 
 Clone o repositório:
 
@@ -75,14 +75,14 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
-###🖥️ Como Usar
+### 🖥️ Como Usar
 
 Execute a aplicação:
 ```bash
 python db_gui.py
 ```
 
-###🎯 Atalhos Úteis
+### 🎯 Atalhos Úteis
 Ação	Comando
 Conectar favorito	Duplo-clique
 Editar favorito	Botão direito
@@ -99,7 +99,7 @@ Atualizar tabelas	F5
 │   └── favorites.json   # Conexões salvas
 └── requirements.txt     # Dependências
 
-###🔒 Segurança
+### 🔒 Segurança
 
     Senhas criptografadas com AES-128
 
@@ -107,7 +107,7 @@ Atualizar tabelas	F5
 
     Armazenamento local seguro
 
-###⚠️ Importante: Não compartilhe o arquivo secret.key
+### ⚠️ Importante: Não compartilhe o arquivo secret.key
 
 📜 Licença
 
