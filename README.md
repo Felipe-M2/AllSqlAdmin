@@ -1,6 +1,8 @@
 # Database GUI Tool
 
-![Screenshot da Aplicação](./image.png)
+<p align="center">
+  <img src="./image.png" alt="Screenshot da Aplicação" width="400">
+</p>
 
 > Aplicação desktop para gerenciamento de bancos de dados relacionais
 
