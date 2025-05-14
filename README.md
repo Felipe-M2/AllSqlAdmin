@@ -56,8 +56,8 @@ pip --version
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/database-gui-tool.git
-cd database-gui-tool
+git clone https://github.com/Felipe-M2/AllSqlAdmin
+cd AllSqlAdmin
 ```
 Ambiente virtual (recomendado):
 
