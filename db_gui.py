@@ -17,7 +17,7 @@ class DatabaseApp(QMainWindow):
     def __init__(self):
         super().__init__()
         # Configuração inicial da janela principal
-        self.setWindowTitle("Database GUI Tool")
+        self.setWindowTitle("AllSqlAdmin")
         self.setGeometry(100, 100, 800, 600)
         
         # Configuração de arquivos e diretórios
