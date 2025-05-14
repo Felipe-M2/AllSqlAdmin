@@ -11,7 +11,6 @@
 - [Como Usar](#🖥️-como-usar)
 - [Estrutura de Arquivos](#📂-estrutura-de-arquivos)
 - [Segurança](#🔒-segurança)
-- [Roadmap](#🗺️-roadmap)
 - [Licença](#📜-licença)
 
 ## ✨ Funcionalidades
@@ -28,6 +27,7 @@ SELECT * FROM tabela LIMIT 10;
 - Execução direta de queries
 - Visualização em tabela dos resultados
 - Feedback imediato
+```
 
 ### 🌐 Explorador
 
