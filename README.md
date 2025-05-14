@@ -83,11 +83,13 @@ python db_gui.py
 ```
 
 ### 🎯 Atalhos Úteis
-Ação	Comando
-Conectar favorito	Duplo-clique
-Editar favorito	Botão direito
-Executar query	Ctrl+Enter
-Atualizar tabelas	F5
+
+| Ação               | Comando       |
+|--------------------|--------------|
+| Conectar favorito  | Duplo-clique |
+| Editar favorito    | Botão direito|
+| Executar query     | Ctrl+Enter   |
+| Atualizar tabelas  | F5           |
 
 ###📂 Estrutura de Arquivos
 .
