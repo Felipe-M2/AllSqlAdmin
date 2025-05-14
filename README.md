@@ -1,6 +1,6 @@
 # Database GUI Tool
 
-![Screenshot da Aplicação](./screenshot.png)
+![Screenshot da Aplicação](./image.png)
 
 > Aplicação desktop para gerenciamento de bancos de dados relacionais
 
