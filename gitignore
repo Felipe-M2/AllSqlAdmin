@@ -1,0 +1,14 @@
+# Arquivos do ambiente virtual Python
+venv/
+.env/
+.venv/
+
+# Arquivos de configuração sensíveis
+/files/secret.key
+*.env
+config.ini
+
+# Cache e arquivos temporários
+__pycache__/
+*.py[cod]
+*$py.class
