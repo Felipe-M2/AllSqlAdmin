@@ -92,6 +92,7 @@ python db_gui.py
 | Atualizar tabelas  | F5           |
 
 ###📂 Estrutura de Arquivos
+```
 .
 ├── db_gui.py            # Código principal
 ├── crypto.py            # Criptografia
@@ -100,6 +101,7 @@ python db_gui.py
 │   ├── secret.key       # Chave de criptografia
 │   └── favorites.json   # Conexões salvas
 └── requirements.txt     # Dependências
+```
 
 ### 🔒 Segurança
 
