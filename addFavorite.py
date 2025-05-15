@@ -28,7 +28,7 @@ class AddFavoriteDialog(QDialog):
         layout.addRow("Porta:", self.port_input)
         layout.addRow("Banco:", self.db_name_input)
         layout.addRow("Usuário:", self.username_input)
-        layout.addRow("Senha:", self.password_input)  # Movido para o final
+        layout.addRow("Senha:", self.password_input)
         
         buttons = QDialogButtonBox(QDialogButtonBox.StandardButton.Ok | QDialogButtonBox.StandardButton.Cancel)
         buttons.accepted.connect(self.accept)

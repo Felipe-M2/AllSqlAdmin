@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AllSqlAdmin
+Comment=Ferramenta de gerenciamento de bancos de dados
+Exec=python 
+Icon=preferences-system
+Terminal=false
+Categories=System;Service;Database;
+Keywords=Database;SQL;Manager;
+StartupNotify=true

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "neon-tech",
+    "db_type": "PostgreSQL",
+    "host": "ep-super-band-acw4dmf4-pooler.sa-east-1.aws.neon.tech",
+    "port": "5432",
+    "db_name": "neondb",
+    "username": "neondb_owner",
+    "password": "gAAAAABoJc1FdEA1u20h7d1uNrU7izHZY57cE6ggTmTXomPfCBwOt6LvRr1dy5akjlPzoGlvMg9YWMe8Q-ZiGwqUQHbQv830tj1NPdiE38KqPIBUqlWJetA="
+  }
+]
